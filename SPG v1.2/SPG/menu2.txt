@@ -1,0 +1,32 @@
+echo [+]#######################\MENU/###########################-
+echo.
+echo       Now enter the characters in order
+echo (Leave blank if you prefer not to insert them)
+echo.
+echo Enter 3 lowercase letters: 
+set /p a=1st :
+set /p b=2nd :
+set /p c=3rd :
+timeout /t 1 /nobreak > NUL
+echo Enter 2 Uppercase letter:
+set /p d=1st :
+set /p e=2nd :
+timeout /t 1 /nobreak > NUL
+echo Enter 2 Special Characters:
+set /p f=1st :
+set /p g=2nd :
+timeout /t 2 /nobreak > NUL
+echo.
+echo [+]######################\RESULT/###########################-
+echo.
+echo %a%%b%%c%%d%%e%%f%%g%
+echo %b%%d%%f%%a%%c%%e%%g%
+echo %a%%d%%g%%b%%c%%f%%e%
+echo %e%%b%%g%%d%%f%%c%%a%
+echo %c%%e%%b%%d%%g%%f%%a%
+echo %d%%g%%f%%a%%c%%b%%e%
+echo %g%%e%%c%%a%%f%%g%%d%
+echo
+echo
+echo
+echo

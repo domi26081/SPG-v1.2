@@ -1,0 +1,23 @@
+                                                                 ■■■■■■■■■■■■■■■
+                                                                 ▮TYPING SCRIPT▮
+                                                                 ■■■■■■■■■■■■■■■
+echo Enter 3 lowercase letters: 
+set /p a=1st : 
+set /p b=2nd : 
+set /p c=3rd : 
+timeout /t 1 /nobreak > NUL
+echo Enter 2 Uppercase letter:
+set /p d=1st : 
+set /p e=2nd : 
+timeout /t 1 /nobreak > NUL
+echo Enter 2 Special Characters/Numbers:
+set /p f=1st : 
+set /p g=2nd : 
+
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+ Then obviously you can modify them according to your own experiences, perhaps avoiding modifying the "EX.% A%" variables to avoid having to rewrite the axh
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+
+                                                   
+
